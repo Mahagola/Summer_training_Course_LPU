@@ -134,5 +134,6 @@ public class lec_21 {
         //replacing a character
         System.out.println("==============================================");
         System.out.println(hp.replace('h', 'c'));
+
     }
 }
